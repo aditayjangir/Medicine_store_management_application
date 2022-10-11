@@ -1,0 +1,15 @@
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\MedicalStoreManager.exe
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\MedicalStoreManager.deps.json
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\MedicalStoreManager.runtimeconfig.json
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\MedicalStoreManager.dll
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\MedicalStoreManager.pdb
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.csproj.AssemblyReference.cache
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.AssemblyInfoInputs.cache
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.AssemblyInfo.cs
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.csproj.CoreCompileInputs.cache
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.dll
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\refint\MedicalStoreManager.dll
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.pdb
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.genruntimeconfig.cache
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\ref\MedicalStoreManager.dll

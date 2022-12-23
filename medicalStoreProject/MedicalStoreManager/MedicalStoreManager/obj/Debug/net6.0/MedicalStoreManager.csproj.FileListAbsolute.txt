@@ -13,3 +13,5 @@ C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\Medica
 C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.pdb
 C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.genruntimeconfig.cache
 C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\ref\MedicalStoreManager.dll
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\obj\Debug\net6.0\MedicalStoreManager.csproj.CopyComplete

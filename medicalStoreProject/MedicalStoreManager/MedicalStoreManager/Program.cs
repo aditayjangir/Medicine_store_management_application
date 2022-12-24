@@ -1,21 +1,19 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Text.Json;
-using MedicalStoreManager;
+using medicineNameList;
+using SellOption;
 string drug = File.ReadAllText(@"C:\Users\jangi\OneDrive\Desktop\medical store project\medicalStoreProject\MedicalStoreManager\MedicalStoreManager\medicineName.json");
 MedicineName? drugNames = JsonSerializer.Deserialize<MedicineName>(drug);
 Console.WriteLine("Search Medicine here...");
 String medName = Console.ReadLine();
-int flag = 0;
-foreach(string med in drugNames.drugs)
+if (drugNames.drugs.Contains(medName))
 {
-    if (med == medName)
-    {
-        Console.WriteLine("Medicine is in box 15-A, total 15 in stock");
-        flag = 1;
-        break;
-    }
+    Console.WriteLine("Medicine available");
+    // find where the medicine is at and selling option.
+    medicineSellingOption.sell(medName);
 }
-if(flag != 1)
+else
 {
-    Console.WriteLine("{0} not in stock", medName);
+    Console.WriteLine("Medicine {0} not available in stock", medName);
+    //place order function can be inserted here.
 }

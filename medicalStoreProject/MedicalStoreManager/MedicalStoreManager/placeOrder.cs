@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace placeOrderModule
+namespace PlaceOrderModule
 {
     // place order from government inventory
-    public class placeOrder
+    public class PlaceOrder
     {
         public static string Order(string medicineName)
         {

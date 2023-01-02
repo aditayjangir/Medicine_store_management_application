@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sellingModule
+namespace SellingModule
 {
-    public class customerDetails
+    public class CustomerDetails
     {
         public String Name { get; set; }
         public String Mobile { get; set; }

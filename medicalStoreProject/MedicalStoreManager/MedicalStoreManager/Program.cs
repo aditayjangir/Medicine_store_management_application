@@ -4,10 +4,11 @@ using MedicineNameList;
 using PlaceOrderModule;
 using SellingModule;
 using ReturnMedicineModule;
-using ManageNearExpiredMedicineModule;
+using ManageNearExpiredMedicineModule; 
 
 string drugData = File.ReadAllText(@"../../../MedicineDetails.json");
 MedicineList? drugList = JsonSerializer.Deserialize<MedicineList>(drugData);
+Console.WriteLine(drugList.drugs);
 Console.WriteLine("Search Medicine here...");
 String medName = Console.ReadLine();
 int rate = Convert.ToInt32(drugList.rate);

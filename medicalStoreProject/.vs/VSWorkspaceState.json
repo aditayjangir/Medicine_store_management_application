@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MedicalStoreManager",
+    "\\MedicalStoreManager\\MedicalStoreManager"
   ],
+  "SelectedNode": "\\MedicalStoreManager",
   "PreviewInSolutionExplorer": false
 }

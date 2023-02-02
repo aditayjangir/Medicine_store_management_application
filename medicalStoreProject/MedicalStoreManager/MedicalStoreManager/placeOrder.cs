@@ -19,15 +19,15 @@ namespace PlaceOrderModule
             {
                 case 1:
                     {
-                        return "Order places successfully from agent";
+                        return "Order of "+ medicineName +" has been places successfully from agent";
                     }
                 case 2:
                     {
-                        return "Order places successfully from online portal";
+                        return "Order of " + medicineName + " has been places successfully from online portal";
                     }
                 default:
                     {
-                        return "Order Unsuccessful";
+                        return "Order of " + medicineName + " is Unsuccessfull";
                     }
             }
         }

@@ -1,0 +1,24 @@
+﻿{
+  "description": "A list of pharmaceutical drug names",
+  "source": "The United States National Library of Medicine, http://druginfo.nlm.nih.gov/drugportal/",
+  "drugs": [
+    {
+      "drugName": "Abacavir Sulfate",
+      "rate": "120",
+      "MfgDate": "12-12-2022",
+      "ExpDate": "12-12-2025",
+      "numberOfTabets": "10",
+      "quantity": "20",
+      "batchNumber": "AS-2022"
+    },
+    {
+      "drugName": "Abatacept",
+      "rate": "120",
+      "MfgDate": "10-2-2022",
+      "ExpDate": "10-11-2024",
+      "numberOfTabets": "10",
+      "quantity": "10",
+      "batchNumber": "AB-2022"
+    }
+  ]
+}

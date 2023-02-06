@@ -2,22 +2,30 @@
 using SellingModule;
 using StockUpdateModule;
 
-while (true)
+bool shopOpeningStatus = true; 
+while (shopOpeningStatus)
 {
-    Console.WriteLine("For Updating Stock press 1");
-    Console.WriteLine("For selling medicine press 2");
-    Console.WriteLine("For Returning medicine press 3");
+    Console.WriteLine("For Updating Stock Press 1");
+    Console.WriteLine("For Selling Medicine Press 2");
+    Console.WriteLine("For Returning medicine Press 3");
+    Console.WriteLine("For Shop Closing press 4");
 
     switch (Convert.ToInt32(Console.ReadLine()))
     {
         case 1:
-            //UpdateStock();
+            UpdatingStock.updateStock();
+            Console.WriteLine("Stock Updated Successfully");
             break;
         case 2:
             SellMedicine.SellMedicineFunction();
+            Console.WriteLine("Medicine Sold Successfully");
             break;
         case 3:
             ReturnMedicine.Return();
+            Console.WriteLine("Medicine Returned Successfully");
+            break;
+        case 4:
+            shopOpeningStatus = false;
             break;
         default:
             Console.WriteLine("entered wrong choice, Choose again");

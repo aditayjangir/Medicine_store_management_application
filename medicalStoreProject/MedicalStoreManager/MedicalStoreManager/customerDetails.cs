@@ -8,9 +8,9 @@ namespace SellingModule
 {
     public class CustomerDetails
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public long Mobile { get; set; }
-        public String Email { get; set; }
+        public string Email { get; set; }
 
     }
 }

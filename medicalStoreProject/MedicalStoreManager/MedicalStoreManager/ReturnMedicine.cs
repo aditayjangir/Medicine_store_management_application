@@ -48,11 +48,6 @@ namespace StockUpdateModule
             {
                 Console.WriteLine("This medicine was not purchased from our store");
             }
-
-            
-
-            
-            //then we will update the stock.
         }
     }
 }
